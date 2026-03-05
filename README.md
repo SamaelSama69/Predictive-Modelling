@@ -2,12 +2,6 @@
 # 📊 OTT Content Viewership Prediction
 
 ### Machine Learning Project -- Predictive Modelling with Linear Regression
-
-`<img src="https://img.shields.io/badge/Python-3.x-blue">`{=html}
-`<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange">`{=html}
-`<img src="https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-green">`{=html}
-`<img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-red">`{=html}
-`<img src="https://img.shields.io/badge/License-MIT-lightgrey">`{=html}
 :::
 
 ------------------------------------------------------------------------
@@ -32,23 +26,6 @@ marketing investment, and content planning.**
 
 ------------------------------------------------------------------------
 
-# 📊 Project Preview
-
-*(Add your visualization screenshots here once uploaded to GitHub)*
-
-Example:
-
-    images/
-       correlation_heatmap.png
-       distribution_views.png
-       regression_residuals.png
-
-Then embed them like:
-
-    ![Correlation Heatmap](images/correlation_heatmap.png)
-    ![Distribution Plot](images/distribution_views.png)
-
-------------------------------------------------------------------------
 
 # 📂 Dataset
 
