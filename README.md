@@ -1,4 +1,3 @@
-{align="center"}
 # 📊 OTT Content Viewership Prediction
 
 ### Machine Learning Project -- Predictive Modelling with Linear Regression
